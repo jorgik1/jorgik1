@@ -13,9 +13,6 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
-<div align="center">
-  <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" width="600" height="300"/>
-</div>
 
 ### 👨‍💻: About Me :
 I am a PHP/Drupal Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine 🇺🇦.
