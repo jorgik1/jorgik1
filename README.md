@@ -40,3 +40,6 @@ I am a PHP/Drupal Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgik1&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+
+### Random programming jokes 😸
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0)
